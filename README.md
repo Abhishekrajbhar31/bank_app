@@ -1,10 +1,11 @@
 Hi Sir,
 
-In This Project you can get all bank and branch details easy i made this project using the REST API (function based api)
-In This Project i Created a model for bank or branch where the bank is added into branch as an foreign key and add is_active statemnet for give me details is active or not.
-and i aslo created serializer for converting the model data or queryset data into the json and you can get the branch details using the ifsc _code as dyanmic url.
+In This Project you can get all bank and branch details easily i made this project using the REST API.
+In This Project, I Created a model for a bank or branch where the bank is added to the branch as a foreign key and added an is_active statement to give me details on whether it is active or not.
+I also created a serializer for converting the model data or query set data into the JSON and you can get the branch details using the ifsc _code as a dynamic URL.
 
-I know I take lot's of time to complete this assignment because of some personal reason but i gave my best i hope you like this assignment.
+I know I took lots of time to complete this assignment because of personal reasons but I gave my best I hope you like this assignment.
 
-Thankyou
+Thank you
 Abhishek Rajbhar
+(28/08/2024)
